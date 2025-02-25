@@ -18,7 +18,9 @@ This project focuses on analyzing a weather dataset to predict the likelihood of
 ## 📊 Dataset Overview
 ### 🔍 1. Dataset Details
 ✔ 2,500 rows, 6 columns covering various weather conditions.
+
 ✔ **Features:** Temperature, Humidity, Wind Speed, Cloud Cover, Pressure.
+
 ✔ **Target Variable:** Rain (binary classification: 0 = no rain, 1 = rain).
 
 ### 🔍 2. Missing Values Analysis
