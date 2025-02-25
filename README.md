@@ -1,7 +1,5 @@
 # Machine Learning Rain Prediction Model
 
----
-
 ## 📖 Project Overview
 This project focuses on analyzing a weather dataset to predict the likelihood of rain using machine learning models. The dataset contains key weather features and a binary target variable (`rain` or `no rain`).
 
