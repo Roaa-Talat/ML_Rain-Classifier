@@ -55,12 +55,16 @@ This project focuses on analyzing a weather dataset to predict the likelihood of
 ## 🤖 Machine Learning Models
 ### 📌 1. **Decision Tree Classifier**
 ✔ Optimized splitting using **Entropy and Information Gain**.
+
 ✔ Evaluated on different missing value handling techniques.
+
 ✔ Model correctly classified **99% of 'No Rain' cases**, but struggled with **'Rain' cases**.
 
 ### 📌 2. **k-Nearest Neighbors (kNN)**
 ✔ Implemented both **built-in Scikit-learn kNN** and **custom kNN from scratch**.
+
 ✔ kNN performed well but suffered from false negatives for predicting rain.
+
 ✔ Best performance was achieved with **k = 11**.
 
 ### 📌 3. **Naïve Bayes Classifier**
