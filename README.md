@@ -69,7 +69,9 @@ This project focuses on analyzing a weather dataset to predict the likelihood of
 
 ### 📌 3. **Naïve Bayes Classifier**
 ✔ Handled binary classification efficiently.
+
 ✔ Accuracy remained **96%**, but recall for `Rain` was lower.
+
 ✔ Model struggled with **class imbalance**, misclassifying some rain instances.
 
 ---
